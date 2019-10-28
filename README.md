@@ -8,34 +8,34 @@ Lo primero que necesitas es que tu computadora tenga instalado Windows 10 de 64 
 
 **Una vez hayas verificado que tu computadora cumple con los requisitos entra a los settings del sistema (Ajustes)**
 
-![preview-1](https://static.platzi.com/media/user_upload/primeraImagen-7c275e36-acc9-44de-9083-6239616057f5.jpg)
+![preview-1](assets/1.jpg)
 
 **Luego entra a la opción de Actualizaciones y Seguridad**
 
-![preview-2](https://static.platzi.com/media/user_upload/segundaImagen-dd3d3960-8b25-4243-b660-ae3e0e621a32.jpg)
+![preview-2](assets/2.jpg)
 
 **En el menú de la izquierda has click en opciones para desarrolladores y habilita el “Modo Desarrollador”**
 
-![preview-3](https://static.platzi.com/media/user_upload/terceraImagen-66f119ea-024f-4311-9eac-316e4905ef42.jpg)
+![preview-3](assets/3.jpg)
 
 **Después, accede al panel de control y haz click en “Programas”**
 
-![preview-4](https://static.platzi.com/media/user_upload/CuartaImagen-bc840717-e213-440c-bd8d-a9f85aab1e2b.jpg)
+![preview-4](assets/4.jpg)
 
 **Una vez ahí, haz click en activar o desactivar características de windows**
 
-![preview-5](https://static.platzi.com/media/user_upload/5taimagen-aab373d0-7f53-4476-b14c-09075f8c7049.jpg)
+![preview-5](assets/5.jpg)
 
 **Aquí, busca la opción de “Windows Subsystem for Linux” y actívala, instala eso y permite que tu computadora se reinicie.
 Luego, entra al menú inicio, escribe bash y sigue los pasos que te indique, en caso de que te diga que no tienes ninguna distribución sólo ve a la tienda de aplicaciones y descargaba Ubuntu para Windows.**
 
-![preview-6](https://static.platzi.com/media/user_upload/sextaImagen-f0980102-6985-4706-a526-bb5a71311bee.jpg)
+![preview-6](assets/6.jpg)
 
 **Luego, ejecuta Ubuntu, crea tu usuario y contraseña y estás lista o listo para continuar.**
 
-![preview-7](https://static.platzi.com/media/user_upload/ultimaImage-c8c3e20b-501f-4729-8086-68dc96454eb8.jpg)
+![preview-7](assets/7.jpg)
 
-![preview-8](https://static.platzi.com/media/user_upload/finalResult-2f050e19-05c0-4e64-be47-de5f4b1fdfb7.jpg)
+![preview-8](assets/8.jpg)
 
 ## Configuración de ZSH para Windows con Linux Shell
 
@@ -88,4 +88,3 @@ $ sudo npm install -g
 
 $ npm start
 ```
-
