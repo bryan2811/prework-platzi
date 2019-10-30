@@ -60,7 +60,28 @@ Existen multiples editores de código, para la escuela de JavaScript vamos a uti
 
 - Git Blame: va a mostrar el autor de la línea de código en la que estemos trabajando. 
 
-- ESLint: es una herramienta de análisis de código estático para identificar patrones problemáticos encontrados en el código JavaScript, o sea, nuestro linter. Debemos instalar y configurar eslint para que siga el estilo de código que le indiquemos. 
+- ESLint: es una herramienta de análisis de código estático para identificar patrones problemáticos encontrados en el código JavaScript, o sea, nuestro linter. Debemos instalar y configurar eslint para que siga el estilo de código que le indiquemos.
+
+**Instalación y configuración de ESLint**
+1. Instalar ESLint en VSCode
+2. Instalar ESLint globalmente desde la terminal:
+
+```
+npm install -g eslint
+```
+
+3. Inicializar la configuración de ESLint en nuestro proyecto
+```
+npx eslint --init
+```
+
+4. Elegir las configuraciones recomendadas
+ - To check syntax, find problems, and enforce code style
+ - JavaScript modules (import/export)
+ - React (O el framework que trabajes en el proyecto)
+ - Browser
+ - Use a popular style guide (AirBNB)
+ - JSON
 
 - Color Highlight: resalta el color que estemos escribiendo. 
 
